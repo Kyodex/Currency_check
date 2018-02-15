@@ -1,24 +1,6 @@
-# README
+# Check Currency
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[heroku link](https://fierce-chamber-86377.herokuapp.com/)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Désolé pour la lenteur ^^ Limité a 350 pour la vitesse
+Bon courage ^^
